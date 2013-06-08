@@ -15,6 +15,7 @@ module Imgur
 
       "http://i.imgur.com/#{ random['hash'] }#{ random['ext'] }"
     end
+
   end
 
 end
